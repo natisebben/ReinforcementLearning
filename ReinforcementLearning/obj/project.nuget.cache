@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MnXYDWTxmprJq/8d3XxkHrW44VvO7UogGXEJktCNIioB77JlElpzDI6J/CO1l/XZ6nrDv6wqRO7TdSaxMOPRwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebbna\\Desktop\\ReinforcementLearning\\ReinforcementLearning\\ReinforcementLearning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebbna\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",
+    "C:\\Users\\sebbna\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\sebbna\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
